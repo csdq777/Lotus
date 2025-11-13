@@ -18,4 +18,4 @@ List of files:
 - `data\zh_mn_test.json`: Chinese-Mongolian test data.  
 - `data\zh_yi_train.json`: Chinese-Yi training data.  
 - `data\zh_yi_test.json`: Chinese-Yi test data.
-To prevent test set contamination, we encrypted the source files of the Lotus data in `data.zip`. The password is `Lotusdata`.
+- To prevent test set contamination, we encrypted the source files of the Lotus data in `data.zip`. The password is `Lotusdata`.
