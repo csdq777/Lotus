@@ -19,3 +19,7 @@ List of files:
 - `data\zh_yi_train.json`: Chinese-Yi training data.  
 - `data\zh_yi_test.json`: Chinese-Yi test data.
 - To prevent test set contamination, we encrypted the source files of the Lotus data in `data.zip`. The password is `Lotusdata`.
+
+
+## License
+The code is licensed under MIT, and the data is licensed under CC BY-NC 4.0.
