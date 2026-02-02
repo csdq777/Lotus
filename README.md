@@ -5,7 +5,13 @@
 </p>
 
 ## Code
-Coming soon⌛️
+You can choice:
+*X*: The input consists solely of a source language sentence.
+*X_D*: The input consists of a source language sentence and its corresponding exact match word.
+*X_S*: The input consists of three in-context examples(parallel sentence), followed by a source language sentence..
+*X_S_D_exact*: The input consists of three in-context examples, each with its corresponding exact match word, followed by a source language sentence and its corresponding exact match word.
+*X_S_D_exact_fuzzy*: The input consists of three in-context examples, each with its corresponding exact match word, followed by a source language sentence and its corresponding exact match word and n times fuzzy match.
+
 
 ## Data
 List of files:
